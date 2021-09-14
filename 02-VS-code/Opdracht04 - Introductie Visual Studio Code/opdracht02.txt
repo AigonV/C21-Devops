@@ -1,0 +1,5 @@
+1. Activity Bar
+2. Editor Groups
+3. Side Bar
+4. Status Bar
+5. Panel
